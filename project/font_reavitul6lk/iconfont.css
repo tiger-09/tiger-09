@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1610352838519'); /* IE9 */
+  src: url('iconfont.eot?t=1610352838519#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOcAAsAAAAAB3QAAANNAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCTIJEATYCJAMMCwgABCAFhG0HRhuaBsguMRUZ6a5ECMsECrhcc7ycCHzspwiisf/N3t03kfS9eTSBRMSrVkKB5KlaKaLZM/n971z12ywQZN8qHHILTHdXSDoZSl8mPQBSxApQEysiRWrdCT1v3PAEi8y4rgMNy/R+Pvhp5FiZF098CQwAXYDl/3M5vZb4/JblMsfWo16AcUABjb0swQIJyHMg3rrM9QTqDaun7PWNzECSwugWiLvM0iAppVZqckOtUF0ytkA8hXi16Yj6Hk/878c/S5EEkqoMRt/j670mdPycWwvtjrHiIsAZzwhuEhmLQCGulZqvQmF4EVKviOPqU6sVIY3li1Xw2aq0eqV/vERUg5HdCGYRSfycs2kEP48mSCCDahK9DTwDoXOvLLc35k0nJ/MzkXL0Juw+X1E+fJxN/flJtwJzPz/P/0gYv3+YZxiuYAbCUShSf5Uw7eJtGXNnJiXlaF6fxN23UlNXT7dT51hh5rE7e24XZMz5E28ULp8NufuOPd/z7OgT7TL7qNi9Q5QJLXXbugFe240jTfHL46fk+oK6aZMyr65u2rKqLCgig2bivQ8/6cXaqtrq5YtoK4zs71x7VH3ubbU3JZ549abE3Hvq+fPQ+Pj+jdQNqe7GxDh8lukd8Gb2dlWXVYrYqf7/JHZVpbUvDPbVffokP+oykcduw3A7HHAHNgBU5EQdfvS8qP7X/MbQyzK5PrPlf1JqHMCP8Zp3cFUUaK9Ve+KW4EdwWpYUVYaWFJlts3VrtnFTxgSYvE0lw97uT39pV+tsQq2uGJIaQ5DVmsQUzh6yqdJgBVCt1ibUW9A/uUEHAYmSDMw7QCC0egBJs/eQtfqAKYTfUKXbf6jWGgjqXUbunA2mg6V0C6JJYmJ9C2YGj1BLJ1OC3CliOSFNJHk+cY6IKPNhr8uTjfWTCBFjDIhutHxSUkwFD+M+shkJhTi2BQ8QQ7r8UtpNbjcte5HL4GFIsUsgNBJhwnRbYIyBi6BuZSkl9/kphMURohE1qAr9HEKIYrVjXi6eFph+caQV6louidrI4iNJFEYJXBjWR4xEyAxzmF3eKoAwSC7+HkFbEzdVjrYVu+aXhp9vFdQznpNDVZASB20PCNOZxiXzUWern3l9SRZ3NjmGnwAAAAAA') format('woff2'),
+  url('iconfont.woff?t=1610352838519') format('woff'),
+  url('iconfont.ttf?t=1610352838519') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1610352838519#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 22px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-weibiaoti2fuzhi12:before {
+  content: "\e629";
+}
+
+.icon-gouwuche:before {
+  content: "\e64f";
+}
+
